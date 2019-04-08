@@ -12,7 +12,7 @@
   <effect>
     <object-type>all</object-type>
     <effects-menu>
-       <submenu _name="Preview"/>
+       <submenu _name="Layers"/>
     </effects-menu>
   </effect>
   <script>
